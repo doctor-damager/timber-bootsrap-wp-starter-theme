@@ -18,7 +18,7 @@ Next Steps:
 The Task Automation is taken from / inspired by https://github.com/them-es/themes-starter-bootstrap
 This includes: 
 + gulp
-+ weppack
++ webpack
 + browsersync
 
 Same instruction as in the link above:
